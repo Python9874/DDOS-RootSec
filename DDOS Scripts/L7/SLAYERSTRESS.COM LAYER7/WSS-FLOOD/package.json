@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "tunnel": "0.0.6",
-    "websocket": "^1.0.31"
+    "websocket": "^1.0.34"
   }
 }
